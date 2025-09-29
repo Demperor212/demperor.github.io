@@ -1,0 +1,37 @@
+[33mcommit a2db41ee530bc0eaf3f77d1e70243410aa8cadbc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Mon Sep 29 17:16:10 2025 -0600
+
+    Update Test1
+
+[33mcommit 1cf728cbdb8fc20fda5f33f8d47fd2c961a5cc47[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Mon Sep 29 17:14:22 2025 -0600
+
+    Create Test1
+
+[33mcommit 9fc28f02a910351e7f20c89fa4c70bc49510e006[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Mon Sep 29 17:13:23 2025 -0600
+
+    Update README.md
+    
+    This is a readme update to test if the connection with git is working
+
+[33mcommit 945a3526066faff592ec2a2d1d6ff801b3f909f6[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Mon Sep 29 16:54:45 2025 -0600
+
+    Update README.md
+
+[33mcommit f979e4348600fa10c10d722f1daa0dfaa61120aa[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Fri Sep 26 15:19:01 2025 -0600
+
+    Update README.md
+
+[33mcommit 57ef1bf2283cd07f5746aecdcf104b8408802104[m
+Author: Demperor212 <ruofanchenxiao@gmail.com>
+Date:   Fri Sep 26 15:09:46 2025 -0600
+
+    Initial commit
